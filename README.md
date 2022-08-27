@@ -12,4 +12,4 @@ It is currently a work in progress, so there are some problems with the code/res
 
 - Erica Behrens: My advisor throughout the whole project, thank you so much for introducing me to Python and for helping my during the whole process of conducting this study
 
-##### This program was made using Python 3.10 in Jupyter Notebooks
+##### This program was made using Python 3.10 in a Jupyter Notebook
