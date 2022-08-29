@@ -4,7 +4,7 @@
 
 These are all the files that actually contain the scientific data I (and probably you) want to look at and analyze!
 
-In this folder, you can add your own _.fits_ files to analyze!
+In this folder, you can add your own `.fits` files to analyze!
 
 ## How do I do that?
 
