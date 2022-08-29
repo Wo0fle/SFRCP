@@ -12,7 +12,7 @@ It is currently a work in progress, so there are some problems with the code/res
 
 # Using/Editing the Program
 
-SFRCP's file (COMPARE SFR v2.ipynb) has comments all throughout explaining each section!
+SFRCP's file (`COMPARE SFR v2.ipynb`) has comments all throughout explaining each section!
 
 For more information on using/editing the program, check out [the wiki!](https://github.com/Wo0fle/SFR-Research-v2/wiki)
 
