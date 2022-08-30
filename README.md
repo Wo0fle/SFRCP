@@ -8,7 +8,7 @@ The original research project was not as complete as I would have liked, so I de
 
 It is currently a work in progress, so there are some problems with the code/results that I am working out.
 
-### I will add a link to the research paper once I have completed the study and finished writing it!
+**I will add a link to the research paper once I have completed the study and finished writing it!**
 
 # Using/Editing the Program
 
@@ -18,6 +18,6 @@ For more information on using/editing the program, check out [the wiki!](https:/
 
 # Acknowledgements
 
-- **Erica Behrens:** My advisor throughout the whole project, thank you so much for introducing me to Python and for helping my during the whole process of conducting this study
+- **Erica Behrens:** My advisor throughout the whole project, thank you so much for introducing me to Python and for helping my during the whole process of conducting this study.
 
 ##### SFRCP was made using Python in a Jupyter Notebook.
