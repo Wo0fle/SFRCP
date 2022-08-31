@@ -2,7 +2,7 @@
 
 ### I'll tell you what's goin' on: SCIENCE!
 
-These are all the files that actually contain the scientific data I (and probably you) want to look at and analyze!
+These are all the files that actually contain the scientific data I (and probably you, since you are here) want to look at and analyze!
 
 In this folder, you can add your own `.fits` files to analyze!
 
