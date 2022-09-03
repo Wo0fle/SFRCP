@@ -12,9 +12,9 @@ It is currently a work in progress, so there are some problems with the code/res
 
 # Using/Editing the Program
 
-SFRCP's data-measuring file (`MEASURE SFR.ipynb`) has comments all throughout explaining each section!
+SFRCP's data-retrieval file (`MEASURE SFR.ipynb`) has comments all throughout explaining each section!
 
-Eventually, I will be creating a file that will compare the SFRs of each galaxy against itself (or at least make the data analysis easier).
+As of now, SFRCP does not have a data-analysis file, but that is coming soon!
 
 For more information on using/editing the program, check out [the wiki!](https://github.com/Wo0fle/SFR-Research-v2/wiki)
 
