@@ -12,14 +12,12 @@ It is currently a work in progress, so there are some problems with the code/res
 
 # Using/Editing the Program
 
-SFRCP's data-retrieval program (`MEASURE SFR.ipynb`) has comments all throughout explaining each section!
+SFRCP's data-retrieval script (`MEASURE SFR.ipynb`) has comments all throughout explaining each section!
 
-As of now, SFRCP does not have a data-analysis program, but that is coming soon!
+As of now, SFRCP does not have a data-analysis script, but that is coming soon!
 
 For more information on using/editing the program, check out [the wiki!](https://github.com/Wo0fle/SFR-Research-v2/wiki)
 
 # Acknowledgements
 
 - **Erica Behrens:** My advisor throughout the whole project, thank you so much for introducing me to Python and for helping my during the whole process of conducting this study.
-
-##### SFRCP was made using Python in Jupyter Notebooks.
