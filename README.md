@@ -6,15 +6,15 @@ SFRCP is currently being used for a research project that I am revising: "Compar
 
 The original research project was not as complete as I would have liked, so I decided to redo it with the goal of having more accurate and precise results.
 
-It is currently a work in progress, so there are some problems with the code/results that I am working out.
+SFRCP is currently a work in progress, so there are some problems with the code/results that I am working out.
 
 **I will add a link to the research paper once I have completed the study and finished writing it!**
 
 # Using/Editing the Program
 
-SFRCP's data-retrieval script (`MEASURE SFR.ipynb`) has comments all throughout explaining each section!
+SFRCP's script (`COMPARE SFR.ipynb`) has comments all throughout explaining each section!
 
-As of now, SFRCP does not have a working data-analysis script, but that is coming soon!
+As of now, SFRCP does not have a working data-analysis program, but that is coming soon!
 
 For more information on using/editing the program, check out [the wiki!](https://github.com/Wo0fle/SFR-Research-v2/wiki)
 
