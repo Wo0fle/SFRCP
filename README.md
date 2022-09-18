@@ -21,3 +21,4 @@ For more information on using/editing the program, check out [the wiki!](https:/
 # Acknowledgements
 
 - **Erica Behrens:** My advisor throughout the whole project, thank you so much for introducing me to Python and for helping my during the whole process of conducting this study.
+- **The Internet:** It's crazy how many people have had the exact same problems as me.
